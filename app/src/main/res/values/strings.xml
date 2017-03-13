@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Result</string>
+    <string name="name">Name</string>
+    <string name="subject_1">Subject 1</string>
+    <string name="subject_2">Subject 2</string>
+    <string name="subject_3">Subject 3</string>
+    <string name="subject_4">Subject 4</string>
+    <string name="subject_5">Subject 5</string>
+    <string name="subject_6">Subject 6</string>
+    <string name="calculate">Calculate</string>
+    <string name="pointer">Pointer</string>
+    <string name="credit">Credits</string>
+    <string name="number_0">0</string>
+    <string name="sgpa">SGPA</string>
+    <string name="cgpa">CGPA</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="semester_1">Semester 1</string>
+    <string name="semester_2">Semester 2</string>
+    <string name="semester_3">Semester 3</string>
+    <string name="semester_4">Semester 4</string>
+    <string name="semester_5">Semester 5</string>
+    <string name="semester_6">Semester 6</string>
+    <string name="semester_7">Semester 7</string>
+    <string name="semester_8">Semester 8</string>
+    <string name="total_credit">Total Credits</string>
+</resources>
